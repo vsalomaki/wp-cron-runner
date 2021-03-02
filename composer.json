@@ -1,5 +1,5 @@
 {
-    "name": "devgeniem/wp-cron-runner",
+    "name": "vsalomaki/wp-cron-runner",
     "type": "wordpress-muplugin",
     "description": "This mu-plugin lets you run WP cron for a site / network site via a single endpoint.",
     "authors": [

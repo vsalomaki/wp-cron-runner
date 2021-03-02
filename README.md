@@ -1,9 +1,5 @@
-![geniem-github-banner](https://cloud.githubusercontent.com/assets/5691777/14319886/9ae46166-fc1b-11e5-9630-d60aa3dc4f9e.png)
-
 # WP Cron Runner
-[![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-cron-runner/v/stable)](https://packagist.org/packages/devgeniem/wp-cron-runner)
-[![Total Downloads](https://poser.pugx.org/devgeniem/wp-cron-runner/downloads)](https://packagist.org/packages/devgeniem/wp-cron-runner)
-[![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-cron-runner/v/unstable)](https://packagist.org/packages/devgeniem/wp-cron-runner)
+
 [![License](https://poser.pugx.org/devgeniem/wp-cron-runner/license)](https://packagist.org/packages/devgeniem/wp-cron-runner)
 
 This simple mu-plugin lets you run WordPress cron jobs for a site or all network sites via a single endpoint. This is useful when building a single solution to run WP cron jobs on a hosting platform for different type of WordPress installations.
